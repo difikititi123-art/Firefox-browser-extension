@@ -1,12 +1,34 @@
-РАСШЕРНИЕ ДЛЯ БРАУЗЕРА ФАЕР ФОКС 
-Dark Reader https://addons.mozilla.org/ru/firefox/addon/darkreader/
-BetterTTV addons.mozilla.org/ru/firefox/BetterTTV
-РуТрекер - официальный плагин от RuTracker.org addons.mozilla.org/ru/firefox/BetterTTV
-Bitwarden – бесплатный менеджер паролей addons.mozilla.org/ru/firefox/BetterTTV
-Decentraleyes addons.mozilla.org/ru/firefox/BetterTTV
-FastProxy - Россия от FastProxy addons.mozilla.org/ru/firefox/BetterTTV
-I still don't care about cookies от Guus addons.mozilla.org/ru/firefox/BetterTTV
-Privacy Badger от EFF Technologists addons.mozilla.org/ru/firefox/BetterTTV
-Simple Translate от sienori addons.mozilla.org/ru/firefox/BetterTTV
-SponsorBlock - Проматывайте спонсоров на YouTube от Ajay (SponsorBlock) addons.mozilla.org/ru/firefox/BetterTTV
-uBlock Origin от Raymond Hill addons.mozilla.org/ru/firefox/BetterTTV
+# 🦊 Топ расширений для Firefox — Приватность, Оптимизация и Комфорт
+
+Мой личный набор 필수-расширений для браузера Firefox, настроенный на максимальную конфиденциальность, защиту от слежки, обход ограничений и удобство работы в сети.
+
+---
+
+### 🛡️ Безопасность и Приватность (Защита от слежки)
+
+* **[uBlock Origin](https://addons.mozilla.org/ru/firefox/addon/ublock-origin/)** (от Raymond Hill) — Лучший в мире блокировщик рекламы, трекеров и вредоносных скриптов. Практически не потребляет оперативную память и процессорное время.
+* **[Privacy Badger](https://addons.mozilla.org/ru/firefox/addon/privacy-badger-eff/)** (от EFF Technologists) — Умное расширение, которое автоматически учится блокировать скрытые трекеры, следящие за вами при переходе с сайта на сайт.
+* **[Decentraleyes](https://addons.mozilla.org/ru/firefox/addon/decentraleyes/)** (от Thomas Rientjes) — Локальная защита конфиденциальности. Эмулирует доставку контента (библиотек скриптов) локально, предотвращая лишние запросы к крупным сетям (вроде Google Hosted Libraries).
+* **[Bitwarden](https://addons.mozilla.org/ru/firefox/addon/bitwarden-password-manager/)** — Надежный, бесплатный open-source менеджер паролей сквозного шифрования для безопасного хранения данных учетных записей.
+
+---
+
+### 🌐 Обход ограничений и Прокси
+
+* **[FastProxy - Россия](https://addons.mozilla.org/ru/firefox/addon/fastproxy-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F/)** — Умный и легкий прокси-плагин для автоматического восстановления доступа к заблокированным сайтам на территории РФ без потери скорости на обычных ресурсах.
+* **[РуТрекер - официальный плагин](https://addons.mozilla.org/ru/firefox/addon/rutracker-official-plugin/)** (от RuTracker.org) — Официальное расширение для обхода блокировки и стабильного доступа к главному торрент-трекеру рунета.
+
+---
+
+### 📺 Оптимизация YouTube и Стриминга
+
+* **[SponsorBlock](https://addons.mozilla.org/ru/firefox/addon/sponsorblock/)** (от Ajay) — Автоматически пропускает спонсорские интеграции, заставки, просьбы подписаться и другие неформатные части в видео на YouTube на основе базы данных пользователей.
+* **[BetterTTV](https://addons.mozilla.org/ru/firefox/addon/betterttv/)** — Прокачка чата на Twitch и YouTube: добавляет кастомные смайлы (эмодзи), дополнительные настройки интерфейса и скрывает ненужный мусор.
+
+---
+
+### 🎨 Комфортный веб-серфинг
+
+* **[Dark Reader](https://addons.mozilla.org/ru/firefox/addon/darkreader/)** — Автоматически создает качественные темные темы для абсолютно любого сайта в сети, снижая нагрузку на глаза в темное время суток.
+* **[I still don't care about cookies](https://addons.mozilla.org/ru/firefox/addon/i-still-dont-care-about-cookies/)** (от Guus) — Избавляет от раздражения: автоматически скрывает и блокирует надоедливые всплывающие окна и баннеры с требованием принять условия Cookie-файлов.
+* **[Simple Translate](https://addons.mozilla.org/ru/firefox/addon/simple-translate/)** (от sienori) — Быстрый и минималистичный переводчик выделенного текста или всей страницы в один клик без открытия лишних вкладок.
