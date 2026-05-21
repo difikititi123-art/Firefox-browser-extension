@@ -7,7 +7,7 @@
 ### 🛡️ Безопасность и Приватность (Защита от слежки)
 
 * **[uBlock Origin](https://addons.mozilla.org/ru/firefox/addon/ublock-origin/)** (от Raymond Hill) — Лучший в мире блокировщик рекламы, трекеров и вредоносных скриптов. Практически не потребляет оперативную память и процессорное время.
-* **[Privacy Badger](https://addons.mozilla.org/ru/firefox/addon/privacy-badger-firefox/)** (от EFF Technologists) — Умное расширение, которое автоматически учится блокировать скрытые трекеры, следящие за вами при переходе с сайта на сайт. *(Ссылка обновлена)*
+* **[Privacy Badger](https://addons.mozilla.org/ru/firefox/addon/privacy-badger-eff/)** (от EFF Technologists) — Умное расширение, которое автоматически учится блокировать скрытые трекеры, следящие за вами при переходе с сайта на сайт.
 * **[Decentraleyes](https://addons.mozilla.org/ru/firefox/addon/decentraleyes/)** (от Thomas Rientjes) — Локальная защита конфиденциальности. Эмулирует доставку контента (библиотек скриптов) локально, предотвращая лишние запросы к крупным сетям (вроде Google Hosted Libraries).
 * **[Bitwarden](https://addons.mozilla.org/ru/firefox/addon/bitwarden-password-manager/)** — Надежный, бесплатный open-source менеджер паролей сквозного шифрования для безопасного хранения данных учетных записей.
 
@@ -16,7 +16,7 @@
 ### 🌐 Обход ограничений и Прокси
 
 * **[FastProxy - Россия](https://addons.mozilla.org/ru/firefox/addon/fastproxy-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F/)** — Умный и легкий прокси-плагин для автоматического восстановления доступа к заблокированным сайтам на территории РФ без потери скорости на обычных ресурсах.
-* **[РуТрекер - официальный плагин](https://addons.mozilla.org/ru/firefox/addon/rutracker-add-on/)** (от RuTracker.org) — Официальное расширение для обхода блокировки и стабильного доступа к главному торрент-трекеру рунета. *(Ссылка обновлена)*
+* **[РуТрекер - официальный плагин](https://addons.mozilla.org/ru/firefox/addon/rutracker-add-on/)** (от RuTracker.org) — Официальное расширение для обхода блокировки и стабильного доступа к главному торрент-трекеру рунета.
 
 ---
 
@@ -30,5 +30,5 @@
 ### 🎨 Комфортный веб-серфинг
 
 * **[Dark Reader](https://addons.mozilla.org/ru/firefox/addon/darkreader/)** — Автоматически создает качественные темные темы для абсолютно любого сайта в сети, снижая нагрузку на глаза в темное время суток.
-* **[I still don't care about cookies](https://addons.mozilla.org/ru/firefox/addon/istilldontcareaboutcookies/)** — Избавляет от раздражения: автоматически скрывает и блокирует надоедливые всплывающие окна и баннеры с требованием принять условия Cookie-файлов. *(Ссылка обновлена)*
+* **[I still don't care about cookies](https://addons.mozilla.org/ru/firefox/addon/istilldontcareaboutcookies/)** — Избавляет от раздражения: автоматически скрывает и блокирует надоедливые всплывающие окна и баннеры с требованием принять условия Cookie-файлов.
 * **[Simple Translate](https://addons.mozilla.org/ru/firefox/addon/simple-translate/)** (от sienori) — Быстрый и минималистичный переводчик выделенного текста или всей страницы в один клик без открытия лишних вкладок.
