@@ -7,7 +7,7 @@
 ### 🛡️ Безопасность и Приватность (Защита от слежки)
 
 * **[uBlock Origin](https://addons.mozilla.org/ru/firefox/addon/ublock-origin/)** (от Raymond Hill) — Лучший в мире блокировщик рекламы, трекеров и вредоносных скриптов. Практически не потребляет оперативную память и процессорное время.
-* **[Privacy Badger](https://addons.mozilla.org/ru/firefox/addon/privacy-badger-eff/)** (от EFF Technologists) — Умное расширение, которое автоматически учится блокировать скрытые трекеры, следящие за вами при переходе с сайта на сайт.
+* **[Privacy Badger](https://addons.mozilla.org/ru/firefox/addon/privacy-badger17/)** (от EFF Technologists) — Умное расширение, которое автоматически учится блокировать скрытые трекеры, следящие за вами при переходе с сайта на сайт.
 * **[Decentraleyes](https://addons.mozilla.org/ru/firefox/addon/decentraleyes/)** (от Thomas Rientjes) — Локальная защита конфиденциальности. Эмулирует доставку контента (библиотек скриптов) локально, предотвращая лишние запросы к крупным сетям (вроде Google Hosted Libraries).
 * **[Bitwarden](https://addons.mozilla.org/ru/firefox/addon/bitwarden-password-manager/)** — Надежный, бесплатный open-source менеджер паролей сквозного шифрования для безопасного хранения данных учетных записей.
 
